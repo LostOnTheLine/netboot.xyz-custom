@@ -8,6 +8,6 @@ It works by using my github user name & chains to this URL:
 Can edit the menu as much as you want.  
 Can compile the iPXE image to set the `github_user` name early on so that your Github user name is set ahead of time & will automatically display your custom submenu on boot.
 
-*Can also set Github user name from the Utilities menu (**Tools:** -> **Utilities** -> **netboot.xyz tools:**) which will cause a custom menu to appear in the main menu.*
+*Can also set Github user name from the Utilities menu ???(**Tools:** -> **Utilities** -> **netboot.xyz tools:**)??? which will cause a custom menu to appear in the main menu.*
 
 If you are new to iPXE scripting, take a look at `custom.ipxe.example` & build up from that.
